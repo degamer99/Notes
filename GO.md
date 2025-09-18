@@ -9,7 +9,7 @@ cd go_projects # go back to the go_projects parent folder and structure you code
 nvim -p cmd/tutorial/main.go 
 ```
 1.
-```go-lang
+```go
 package main
 import "fmt"
 
