@@ -1,0 +1,21 @@
+systemctl --user list-units --type=service | grep hypr
+systemctl --user list-units --type=target | grep hypr
+
+sudo systemctl --user stop wayland-wm-env@hyprland.desktop.service              
+sudo systemctl --user stop wayland-wm@hyprland.desktop.service                  
+sudo systemctl --user stop xdg-desktop-portal-hyprland.service                  
+sudo systemctl --user stop wayland-session-pre@hyprland.desktop.target          
+sudo systemctl --user stop wayland-session-xdg-autostart@hyprland.desktop.target
+sudo systemctl --user stop wayland-session@hyprland.desktop.target              
+
+
+sudo systemctl --user disable wayland-wm-env@hyprland.desktop.service              
+sudo systemctl --user disable wayland-wm@hyprland.desktop.service                  
+sudo systemctl --user disable xdg-desktop-portal-hyprland.service                  
+sudo systemctl --user disable wayland-session-pre@hyprland.desktop.target          
+sudo systemctl --user disable wayland-session-xdg-autostart@hyprland.desktop.target
+sudo systemctl --user disable wayland-session@hyprland.desktop.target              
+
+systemctl --user daemon-reload
+
+olayinka
