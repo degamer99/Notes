@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "language": "Ga labari mai tsawo da zurfin zance",
+    "translation": "Here is a story that is long and filled with deep expression.",
+    "wordByWord": [
+      { "language": "Ga", "translation": "Here is / behold" },
+      { "language": "labari", "translation": "story / narrative / account" },
+      { "language": "mai", "translation": "having / possessing" },
+      { "language": "tsawo", "translation": "length / long" },
+      { "language": "da", "translation": "and / with" },
+      { "language": "zurfin", "translation": "depth / profoundness" },
+      { "language": "zance", "translation": "speech / discourse / words" }
+    ],
+    "metadata": "Opening statement introducing the story."
+  },
+  {
+    "id": 2,
+    "language": "Wannan labarin yana ba da labarin zuwan girma da soyayya tsakanin yaro mai suna Aliyu da yarinya mai suna Aminatu",
+    "translation": "This tale tells of the coming of age and the blossoming love between a boy named Aliyu and a girl named Aminatu.",
+    "wordByWord": [
+      { "language": "Wannan", "translation": "This" },
+      { "language": "labarin", "translation": "the story" },
+      { "language": "yana", "translation": "is (continuous action marker)" },
+      { "language": "ba da", "translation": "giving / narrating" },
+      { "language": "labarin", "translation": "story / account" },
+      { "language": "zuwan", "translation": "arrival / coming of" },
+      { "language": "girma", "translation": "adulthood / greatness" },
+      { "language": "da", "translation": "and" },
+      { "language": "soyayya", "translation": "love / affection" },
+      { "language": "tsakanin", "translation": "between / among" },
+      { "language": "yaro", "translation": "boy" },
+      { "language": "mai suna", "translation": "named / called" },
+      { "language": "Aliyu", "translation": "Aliyu (proper name)" },
+      { "language": "da", "translation": "and" },
+      { "language": "yarinya", "translation": "girl" },
+      { "language": "mai suna", "translation": "named / called" },
+      { "language": "Aminatu", "translation": "Aminatu (proper name)" }
+    ],
+    "metadata": "Main characters are introduced."
+  },
+  {
+    "id": 3,
+    "language": "Waɗanda suka tashi daga ƙauyen da ke ƙarƙashin fuskokin duhu da hasken rana",
+    "translation": "They grew up in a village under the face of both darkness and sunlight.",
+    "wordByWord": [
+      { "language": "Waɗanda", "translation": "Those who / who" },
+      { "language": "suka", "translation": "(they) did (past tense marker)" },
+      { "language": "tashi", "translation": "grew up / rose" },
+      { "language": "daga", "translation": "from" },
+      { "language": "ƙauyen", "translation": "the village" },
+      { "language": "da", "translation": "that / which" },
+      { "language": "ke", "translation": "is (present marker)" },
+      { "language": "ƙarƙashin", "translation": "under / beneath" },
+      { "language": "fuskokin", "translation": "faces / aspects" },
+      { "language": "duhu", "translation": "darkness" },
+      { "language": "da", "translation": "and" },
+      { "language": "hasken", "translation": "the light / brightness" },
+      { "language": "rana", "translation": "sun / day" }
+    ],
+    "metadata": "Describes the origins of the characters."
+  }
+]
