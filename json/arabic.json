@@ -4,11 +4,26 @@
     "language": "أسرد لك حكاية العمر والنضوج",
     "translation": "I narrate to you a story of life and maturity",
     "wordByWord": [
-      { "language": "أسرد", "translation": "narrate / tell" },
-      { "language": "لك", "translation": "to you" },
-      { "language": "حكاية", "translation": "story" },
-      { "language": "العمر", "translation": "life / lifetime" },
-      { "language": "والنضوج", "translation": "and maturity / growth" }
+      {
+        "language": "أسرد",
+        "translation": "narrate / tell"
+      },
+      {
+        "language": "لك",
+        "translation": "to you"
+      },
+      {
+        "language": "حكاية",
+        "translation": "story"
+      },
+      {
+        "language": "العمر",
+        "translation": "life / lifetime"
+      },
+      {
+        "language": "والنضوج",
+        "translation": "and maturity / growth"
+      }
     ],
     "metadata": "Introduction of the tale"
   },
@@ -17,12 +32,30 @@
     "language": "قصيدة تمتد أصداؤها عبر الزمن والفضاء",
     "translation": "A poem whose echoes extend through time and space",
     "wordByWord": [
-      { "language": "قصيدة", "translation": "poem" },
-      { "language": "تمتد", "translation": "extend / stretch" },
-      { "language": "أصداؤها", "translation": "its echoes" },
-      { "language": "عبر", "translation": "through / across" },
-      { "language": "الزمن", "translation": "time" },
-      { "language": "والفضاء", "translation": "and space" }
+      {
+        "language": "قصيدة",
+        "translation": "poem"
+      },
+      {
+        "language": "تمتد",
+        "translation": "extend / stretch"
+      },
+      {
+        "language": "أصداؤها",
+        "translation": "its echoes"
+      },
+      {
+        "language": "عبر",
+        "translation": "through / across"
+      },
+      {
+        "language": "الزمن",
+        "translation": "time"
+      },
+      {
+        "language": "والفضاء",
+        "translation": "and space"
+      }
     ],
     "metadata": "Metaphorical description"
   },
@@ -31,14 +64,38 @@
     "language": "حكاية فتًى وفتاة اجتمعا في مفترق طرق القدر",
     "translation": "A tale of a boy and a girl who met at the crossroads of destiny",
     "wordByWord": [
-      { "language": "حكاية", "translation": "story / tale" },
-      { "language": "فتًى", "translation": "boy" },
-      { "language": "وفتاة", "translation": "and girl" },
-      { "language": "اجتمعا", "translation": "met / came together" },
-      { "language": "في", "translation": "at / in" },
-      { "language": "مفترق", "translation": "crossroads / junction" },
-      { "language": "طرق", "translation": "paths / ways" },
-      { "language": "القدر", "translation": "fate / destiny" }
+      {
+        "language": "حكاية",
+        "translation": "story / tale"
+      },
+      {
+        "language": "فتًى",
+        "translation": "boy"
+      },
+      {
+        "language": "وفتاة",
+        "translation": "and girl"
+      },
+      {
+        "language": "اجتمعا",
+        "translation": "met / came together"
+      },
+      {
+        "language": "في",
+        "translation": "at / in"
+      },
+      {
+        "language": "مفترق",
+        "translation": "crossroads / junction"
+      },
+      {
+        "language": "طرق",
+        "translation": "paths / ways"
+      },
+      {
+        "language": "القدر",
+        "translation": "fate / destiny"
+      }
     ],
     "metadata": "Main characters introduced"
   },
@@ -47,16 +104,46 @@
     "language": "بدأت القصة في مدينةٍ قديمة ذات مبانٍ من حجرٍ وخشب",
     "translation": "The story began in an old city with buildings of stone and wood",
     "wordByWord": [
-      { "language": "بدأت", "translation": "began" },
-      { "language": "القصة", "translation": "the story" },
-      { "language": "في", "translation": "in" },
-      { "language": "مدينةٍ", "translation": "city" },
-      { "language": "قديمة", "translation": "old" },
-      { "language": "ذات", "translation": "with / possessing" },
-      { "language": "مبانٍ", "translation": "buildings" },
-      { "language": "من", "translation": "of / from" },
-      { "language": "حجرٍ", "translation": "stone" },
-      { "language": "وخشب", "translation": "and wood" }
+      {
+        "language": "بدأت",
+        "translation": "began"
+      },
+      {
+        "language": "القصة",
+        "translation": "the story"
+      },
+      {
+        "language": "في",
+        "translation": "in"
+      },
+      {
+        "language": "مدينةٍ",
+        "translation": "city"
+      },
+      {
+        "language": "قديمة",
+        "translation": "old"
+      },
+      {
+        "language": "ذات",
+        "translation": "with / possessing"
+      },
+      {
+        "language": "مبانٍ",
+        "translation": "buildings"
+      },
+      {
+        "language": "من",
+        "translation": "of / from"
+      },
+      {
+        "language": "حجرٍ",
+        "translation": "stone"
+      },
+      {
+        "language": "وخشب",
+        "translation": "and wood"
+      }
     ],
     "metadata": "Setting of the story"
   },
@@ -65,13 +152,34 @@
     "language": "عاش شابٌ طويل القامة وذو وجهٍ وسيم",
     "translation": "A tall young man with a handsome face lived there",
     "wordByWord": [
-      { "language": "عاش", "translation": "lived" },
-      { "language": "شابٌ", "translation": "young man" },
-      { "language": "طويل", "translation": "tall / long" },
-      { "language": "القامة", "translation": "stature / build" },
-      { "language": "وذو", "translation": "and with / possessing" },
-      { "language": "وجهٍ", "translation": "face" },
-      { "language": "وسيم", "translation": "handsome / good-looking" }
+      {
+        "language": "عاش",
+        "translation": "lived"
+      },
+      {
+        "language": "شابٌ",
+        "translation": "young man"
+      },
+      {
+        "language": "طويل",
+        "translation": "tall / long"
+      },
+      {
+        "language": "القامة",
+        "translation": "stature / build"
+      },
+      {
+        "language": "وذو",
+        "translation": "and with / possessing"
+      },
+      {
+        "language": "وجهٍ",
+        "translation": "face"
+      },
+      {
+        "language": "وسيم",
+        "translation": "handsome / good-looking"
+      }
     ],
     "metadata": "Introduction of male character"
   },
@@ -80,13 +188,34 @@
     "language": "وفتاةٌ صغيرة الطول بعينين لامعتين كنجوم الليل",
     "translation": "And a short girl with shining eyes like the stars of the night",
     "wordByWord": [
-      { "language": "وفتاةٌ", "translation": "and girl" },
-      { "language": "صغيرة", "translation": "small / short" },
-      { "language": "الطول", "translation": "height / stature" },
-      { "language": "بعينين", "translation": "with two eyes" },
-      { "language": "لامعتين", "translation": "shining / sparkling" },
-      { "language": "كنجوم", "translation": "like stars" },
-      { "language": "الليل", "translation": "the night" }
+      {
+        "language": "وفتاةٌ",
+        "translation": "and girl"
+      },
+      {
+        "language": "صغيرة",
+        "translation": "small / short"
+      },
+      {
+        "language": "الطول",
+        "translation": "height / stature"
+      },
+      {
+        "language": "بعينين",
+        "translation": "with two eyes"
+      },
+      {
+        "language": "لامعتين",
+        "translation": "shining / sparkling"
+      },
+      {
+        "language": "كنجوم",
+        "translation": "like stars"
+      },
+      {
+        "language": "الليل",
+        "translation": "the night"
+      }
     ],
     "metadata": "Introduction of female character"
   },
@@ -95,14 +224,38 @@
     "language": "كان الشاب يتيم القلب؛ فقد فقد والده في حادثٍ عنيفٍ",
     "translation": "The young man was orphan-hearted; he had lost his father in a violent accident",
     "wordByWord": [
-      { "language": "كان", "translation": "was" },
-      { "language": "الشاب", "translation": "the young man" },
-      { "language": "يتيم", "translation": "orphan" },
-      { "language": "القلب", "translation": "heart" },
-      { "language": "فقد", "translation": "lost" },
-      { "language": "والده", "translation": "his father" },
-      { "language": "حادثٍ", "translation": "accident" },
-      { "language": "عنيفٍ", "translation": "violent" }
+      {
+        "language": "كان",
+        "translation": "was"
+      },
+      {
+        "language": "الشاب",
+        "translation": "the young man"
+      },
+      {
+        "language": "يتيم",
+        "translation": "orphan"
+      },
+      {
+        "language": "القلب",
+        "translation": "heart"
+      },
+      {
+        "language": "فقد",
+        "translation": "lost"
+      },
+      {
+        "language": "والده",
+        "translation": "his father"
+      },
+      {
+        "language": "حادثٍ",
+        "translation": "accident"
+      },
+      {
+        "language": "عنيفٍ",
+        "translation": "violent"
+      }
     ],
     "metadata": "Male character’s background"
   },
@@ -111,13 +264,34 @@
     "language": "بينما كانت الفتاة تبتسم رغم آلامها وخيباتها",
     "translation": "Meanwhile, the girl smiled despite her pains and disappointments",
     "wordByWord": [
-      { "language": "بينما", "translation": "while / meanwhile" },
-      { "language": "كانت", "translation": "was" },
-      { "language": "الفتاة", "translation": "the girl" },
-      { "language": "تبتسم", "translation": "smiled" },
-      { "language": "رغم", "translation": "despite" },
-      { "language": "آلامها", "translation": "her pains" },
-      { "language": "وخيباتها", "translation": "her disappointments" }
+      {
+        "language": "بينما",
+        "translation": "while / meanwhile"
+      },
+      {
+        "language": "كانت",
+        "translation": "was"
+      },
+      {
+        "language": "الفتاة",
+        "translation": "the girl"
+      },
+      {
+        "language": "تبتسم",
+        "translation": "smiled"
+      },
+      {
+        "language": "رغم",
+        "translation": "despite"
+      },
+      {
+        "language": "آلامها",
+        "translation": "her pains"
+      },
+      {
+        "language": "وخيباتها",
+        "translation": "her disappointments"
+      }
     ],
     "metadata": "Female character’s resilience"
   }

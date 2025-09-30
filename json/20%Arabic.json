@@ -1,0 +1,358 @@
+[
+  {
+    "id": 1,
+    "language": "في صباح أحد أيام الأسبوع، عندما كان الهواء يعبق برائحة القهوة الطازجة والخبز المحمص،",
+    "translation": "On a morning of one of the weekdays, when the air was filled with the aroma of fresh coffee and toasted bread,",
+    "wordByWord": [
+      {
+        "language": "في",
+        "translation": "in / on"
+      },
+      {
+        "language": "صباح",
+        "translation": "morning"
+      },
+      {
+        "language": "أحد",
+        "translation": "one"
+      },
+      {
+        "language": "أيام",
+        "translation": "days"
+      },
+      {
+        "language": "الأسبوع",
+        "translation": "the week"
+      },
+      {
+        "language": "عندما",
+        "translation": "when"
+      },
+      {
+        "language": "كان",
+        "translation": "was"
+      },
+      {
+        "language": "الهواء",
+        "translation": "the air"
+      },
+      {
+        "language": "يعبق",
+        "translation": "filled / infused"
+      },
+      {
+        "language": "برائحة",
+        "translation": "with the smell"
+      },
+      {
+        "language": "القهوة",
+        "translation": "coffee"
+      },
+      {
+        "language": "الطازجة",
+        "translation": "fresh"
+      },
+      {
+        "language": "والخبز",
+        "translation": "and bread"
+      },
+      {
+        "language": "المحمص",
+        "translation": "toasted"
+      }
+    ],
+    "metadata": "Setting the scene of the morning"
+  },
+  {
+    "id": 2,
+    "language": "دخلت الفتاة إلى حياة الشاب كنسمةٍ باردة في يوم صيفي حار،",
+    "translation": "The girl entered the young man's life like a cool breeze on a hot summer day,",
+    "wordByWord": [
+      {
+        "language": "دخلت",
+        "translation": "entered"
+      },
+      {
+        "language": "الفتاة",
+        "translation": "the girl"
+      },
+      {
+        "language": "إلى",
+        "translation": "into / to"
+      },
+      {
+        "language": "حياة",
+        "translation": "life"
+      },
+      {
+        "language": "الشاب",
+        "translation": "the young man"
+      },
+      {
+        "language": "كنسمةٍ",
+        "translation": "like a breeze"
+      },
+      {
+        "language": "باردة",
+        "translation": "cold / cool"
+      },
+      {
+        "language": "في",
+        "translation": "in"
+      },
+      {
+        "language": "يوم",
+        "translation": "day"
+      },
+      {
+        "language": "صيفي",
+        "translation": "summer"
+      },
+      {
+        "language": "حار",
+        "translation": "hot"
+      }
+    ],
+    "metadata": "First encounter compared to a refreshing breeze"
+  },
+  {
+    "id": 3,
+    "language": "كانت ترتدي فستانًا أنيقًا يبرز جمالها الطبيعي،",
+    "translation": "She was wearing an elegant dress that highlighted her natural beauty,",
+    "wordByWord": [
+      {
+        "language": "كانت",
+        "translation": "was"
+      },
+      {
+        "language": "ترتدي",
+        "translation": "wearing"
+      },
+      {
+        "language": "فستانًا",
+        "translation": "a dress"
+      },
+      {
+        "language": "أنيقًا",
+        "translation": "elegant"
+      },
+      {
+        "language": "يبزر",
+        "translation": "shows / highlights"
+      },
+      {
+        "language": "جمالها",
+        "translation": "her beauty"
+      },
+      {
+        "language": "الطبيعي",
+        "translation": "natural"
+      }
+    ],
+    "metadata": "Description of her clothing and beauty"
+  },
+  {
+    "id": 4,
+    "language": "وتضع قبعةً صغيرة تُضفي على ملامحها لمسة من البراءة والثقة.",
+    "translation": "And she wore a small hat that added to her features a touch of innocence and confidence.",
+    "wordByWord": [
+      {
+        "language": "وتضع",
+        "translation": "and she wore / placed"
+      },
+      {
+        "language": "قبعةً",
+        "translation": "a hat"
+      },
+      {
+        "language": "صغيرة",
+        "translation": "small"
+      },
+      {
+        "language": "تُضفي",
+        "translation": "adds / imparts"
+      },
+      {
+        "language": "على",
+        "translation": "to / upon"
+      },
+      {
+        "language": "ملامحها",
+        "translation": "her features"
+      },
+      {
+        "language": "لمسة",
+        "translation": "a touch"
+      },
+      {
+        "language": "من",
+        "translation": "of / from"
+      },
+      {
+        "language": "البراءة",
+        "translation": "innocence"
+      },
+      {
+        "language": "والثقة",
+        "translation": "and confidence"
+      }
+    ],
+    "metadata": "Details of her appearance with the small hat"
+  },
+  {
+    "id": 5,
+    "language": "عرفتها العيون منذ اللحظة الأولى؛ فقد كانت تحمل في قلبها أسراراً وآلامًا من ماضٍ قديم،",
+    "translation": "The eyes recognized her from the very first moment; for she carried in her heart secrets and pains from an old past,",
+    "wordByWord": [
+      {
+        "language": "عرفتها",
+        "translation": "recognized her"
+      },
+      {
+        "language": "العيون",
+        "translation": "the eyes"
+      },
+      {
+        "language": "منذ",
+        "translation": "since"
+      },
+      {
+        "language": "اللحظة",
+        "translation": "the moment"
+      },
+      {
+        "language": "الأولى",
+        "translation": "the first"
+      },
+      {
+        "language": "فقد",
+        "translation": "for / indeed"
+      },
+      {
+        "language": "كانت",
+        "translation": "she was"
+      },
+      {
+        "language": "تحمل",
+        "translation": "carrying"
+      },
+      {
+        "language": "في",
+        "translation": "in"
+      },
+      {
+        "language": "قلبها",
+        "translation": "her heart"
+      },
+      {
+        "language": "أسراراً",
+        "translation": "secrets"
+      },
+      {
+        "language": "وآلامًا",
+        "translation": "and pains"
+      },
+      {
+        "language": "من",
+        "translation": "from"
+      },
+      {
+        "language": "ماضٍ",
+        "translation": "a past"
+      },
+      {
+        "language": "قديم",
+        "translation": "old / ancient"
+      }
+    ],
+    "metadata": "Hints at her mysterious and painful past"
+  },
+  {
+    "id": 6,
+    "language": "وابتسامتها الناعمة كانت تُعيد للنفس رونق الطفولة والبراءة،",
+    "translation": "And her gentle smile would restore to the soul the charm of childhood and innocence,",
+    "wordByWord": [
+      {
+        "language": "وابتسامتها",
+        "translation": "and her smile"
+      },
+      {
+        "language": "الناعمة",
+        "translation": "soft / gentle"
+      },
+      {
+        "language": "كانت",
+        "translation": "was / would"
+      },
+      {
+        "language": "تُعيد",
+        "translation": "restore / bring back"
+      },
+      {
+        "language": "للنفس",
+        "translation": "to the soul / to the self"
+      },
+      {
+        "language": "رونق",
+        "translation": "charm / beauty"
+      },
+      {
+        "language": "الطفولة",
+        "translation": "childhood"
+      },
+      {
+        "language": "والبراءة",
+        "translation": "and innocence"
+      }
+    ],
+    "metadata": "Her smile evoking innocence and childhood"
+  },
+  {
+    "id": 7,
+    "language": "رغم صعوبات الزمن الذي جعلها تنضج في وجه القسوة والعنف.",
+    "translation": "Despite the hardships of time that made her mature in the face of cruelty and violence.",
+    "wordByWord": [
+      {
+        "language": "رغم",
+        "translation": "despite"
+      },
+      {
+        "language": "صعوبات",
+        "translation": "difficulties / hardships"
+      },
+      {
+        "language": "الزمن",
+        "translation": "time"
+      },
+      {
+        "language": "الذي",
+        "translation": "which / that"
+      },
+      {
+        "language": "جعلها",
+        "translation": "made her"
+      },
+      {
+        "language": "تنضج",
+        "translation": "mature / ripen"
+      },
+      {
+        "language": "في",
+        "translation": "in"
+      },
+      {
+        "language": "وجه",
+        "translation": "face"
+      },
+      {
+        "language": "القسوة",
+        "translation": "cruelty / harshness"
+      },
+      {
+        "language": "والعنف",
+        "translation": "and violence"
+      }
+    ],
+    "metadata": "Concludes with the idea of resilience through hardship"
+  }
+]
